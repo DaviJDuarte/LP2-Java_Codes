@@ -32,6 +32,5 @@ public class Funcionario extends Pessoa {
 		
 	public String toString() {
 		return super.toString() + "Funcionario [RG: " + rg + ", CPF: " + cpf + "]";
-	}
-			
+	}	
 }

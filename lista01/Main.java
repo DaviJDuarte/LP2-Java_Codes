@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Classe Pessoa Teste
+
         Pessoa pessoa1 = new Pessoa("João", 12, 3, 1990);
         Pessoa pessoa2 = new Pessoa("Maria", 5, 8, 1985);
 
@@ -42,7 +43,6 @@ public class Main {
         System.out.println("Aviao1 equals Aviao2 = " + aviao1.equals(aviao2));
         System.out.println("Aviao1 equals Aviao3 = " + aviao1.equals(aviao3));
 
-
         // Classe Tenis Teste
 
         Tenis tenis1 = new Tenis("Nike", "Preto", 39);
@@ -54,10 +54,6 @@ public class Main {
         System.out.println(tenis3.toString());
 
         System.out.println("Tenis1 equals Tenis2 = " + tenis1.equals(tenis2));
-
         System.out.println("Tenis1 equals Tenis3 = " + tenis1.equals(tenis3));
-
-
     }
-
 }

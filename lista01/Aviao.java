@@ -58,11 +58,9 @@ public class Aviao {
 			return false;
 		
 		return true;
-		
 	}
 	
 	public String toString() {
 		return "Aviao [Fabricante: " + fabricante + ", Tipo: " + tipo + "]";
-	}	
-			
+	}		
 }

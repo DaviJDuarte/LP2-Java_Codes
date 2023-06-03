@@ -43,7 +43,6 @@ public class Tenis {
 		this.tamanho = tamanho;
 	}
 	
-	
 	public boolean equals(Object obj) {
 		
 		if (this == obj)
@@ -75,12 +74,10 @@ public class Tenis {
 		} else if (!tamanho.equals(other.tamanho))
 			return false;
 		
-		return true;
-		
+		return true;	
 	}
 	
 	public String toString() {
 		return "Tenis [Marca: " + marca + ", Cor: " + cor + ", Tamanho: " + tamanho + "]";
-	}
-		
+	}	
 }

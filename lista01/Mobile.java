@@ -58,11 +58,9 @@ public class Mobile {
 			return false;
 		
 		return true;
-		
 	}
 	
 	public String toString() {
 		return "Mobile [Marca: " + marca + ", Modelo: " + modelo + "]";
 	}
-	
 }

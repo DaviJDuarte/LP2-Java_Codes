@@ -36,5 +36,4 @@ public class Pessoa {
 	public String toString() {
 		return "Pessoa [Nome: " + nome + ", Nascimento: " + nascimento + "]";
 	}
-
 }
