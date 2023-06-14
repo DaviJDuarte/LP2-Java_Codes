@@ -18,8 +18,8 @@ equals da classe Object, método hashCode da classe Object e o método toString 
 classe Object.
 
 4 - Escreva o código fonte da classe Cadastro para armazenar objetos da classe Carro,
-incluir os métodos:
-  void cadastrar() - inclui um carro no cadastro;
-  void listar() - lista todos carros armazenados no cadastro;
-  void sair() - fim.
+incluir os métodos:<br>
+  <br>void cadastrar() - inclui um carro no cadastro;
+  <br>void listar() - lista todos carros armazenados no cadastro;
+  <br>void sair() - fim.
 
