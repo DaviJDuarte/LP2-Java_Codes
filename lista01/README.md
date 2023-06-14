@@ -1,6 +1,6 @@
 01-03-2023 
 
-Lista de Exercícios – Herança e métodos toString e equals da classe Object
+Lista de Exercícios 01 – Herança e métodos toString e equals da classe Object
 
 1 - Escreva o código fonte da classe Pessoa, incluir os atributos nome (String) e nascimento
 (LocalDate), 2 métodos construtores, métodos get/set e método toString da classe Object;
