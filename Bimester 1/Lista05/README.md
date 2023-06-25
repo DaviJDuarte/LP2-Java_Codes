@@ -16,10 +16,10 @@ método compareTo para comparar objetos do tipo LocalDateTime;
 4 -  Faça um programa java com uma função principal main que execute as seguintes
 ações:
 
-a. instanciar um objeto da classe Usuário;
-b. instanciar 3 objetos da classe Post;
-c. incluir as instâncias de objetos Post na lista de Posts da instância da classe Usuário;
-d. imprimir todos objetos Post armazenados na lista do Usuário em formato decrescente
+a. instanciar um objeto da classe Usuário;<br>
+b. instanciar 3 objetos da classe Post;<br>
+c. incluir as instâncias de objetos Post na lista de Posts da instância da classe Usuário;<br>
+d. imprimir todos objetos Post armazenados na lista do Usuário em formato decrescente.<br>
 
 5 - Escreva o código fonte da classe ComparadorNome que implemente a interface
 Comparator<Usuario> e compare objetos da classe Usuário pelo atributo nome.
