@@ -1,0 +1,12 @@
+main {
+  height: 60vh;
+}
+
+label {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+input {
+  margin-bottom: 20px;
+}
